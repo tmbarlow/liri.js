@@ -13,5 +13,18 @@
     "request": "^2.83.0",
     "spotify": "^0.3.0",
     "twitter": "^1.7.1"
+<<<<<<< 2604b60b08b6db0722f2e8e862f8e289b22bf928
   }
+=======
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmbarlow/liri.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tmbarlow/liri.js/issues"
+  },
+  "homepage": "https://github.com/tmbarlow/liri.js#readme"
+>>>>>>> final update
 }
